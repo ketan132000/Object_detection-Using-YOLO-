@@ -38,5 +38,5 @@ Yolo(You Only Look Once) is
 2. Yolo Configuration and Weights file. (Download Link - https://pjreddie.com/darknet/yolo/)
 3. 
 
-
+[![Watch the video](https://github.com/ketan132000/Object_detection-Using-YOLO-/blob/main/ouput1.mp4)]
 
