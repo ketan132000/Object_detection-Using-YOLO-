@@ -16,7 +16,7 @@ c) A truck
 
 So when the process of Detecting and classifying the objects in the above picture is performed by the computer, this process is called object detection and classification.
 
-The following is the output that the machine will provide us with after performing the object detection and classification task.
+The following is the output that the machine will provide us with after performing the object detection and classification task:-
 
-<img src="out" width=60% height=50%>
+<img src="outputimage (2).png" width=60% height=50%>
 
