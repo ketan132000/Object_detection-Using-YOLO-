@@ -3,10 +3,10 @@ Real Time Object Detection and Classification using Yolo Algorithm.
  
 What is Object Detection and classification?
 
-Object Detection is a computer vision task which gives the machine an ability to detect the instances of object present in an image or a video. This technique tells the exact location of the object(s). 
+Object Detection is a computer vision task which gives the machine an ability to detect the instances of object present in an image or a video. This technique tells the exact location of the visual object(s). 
 
 
 
 <img src="image.jpg" width=60% height=50%>
-
+<img src="outputimage(2).png" width=60% height=50%>
 
