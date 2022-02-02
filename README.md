@@ -1,7 +1,7 @@
 # Real time Object detection & Classification using YOLO algorithm.
 Real Time Object Detection and Classification using Yolo Algorithm.
  
-What is Object Detection and classification?
+### What is Object Detection and classification?
 
 Object Detection is a computer vision task which gives the machine an ability to detect the instances of object present in an image or a video. This technique tells the exact location of the visual object(s). 
 
@@ -10,7 +10,8 @@ Once the object is detected, it is classified into certain classes (for example 
 
 Let's understand the whole concept of object detection using an image.
 
-<img src="image.jpg" width=60% height=50%>
+<p align="center">
+<img src="Readme/image.jpg" width=60% height=50%></p
 
 In the above image the major objects that we can detect through our naked eye are:-
 
@@ -24,19 +25,28 @@ So when the process of Detecting and classifying the objects in the above pictur
 
 The following is the output that the machine will provide us with after performing the object detection and classification task:-
 
-<img src="outputimage (2).png" width=60% height=50%>
+ <p align="center">
+<img src="Readme/outputimage (2).png" width=60% height=50%></p>
 
 The objects are detected and are classified into different classes( shown in different bounding boxes).
 
-# Object Detection using DeepLearning algorithms.
-# What is YOLO algorithm?
-Yolo(You Only Look Once) is 
+### Object Detection using DeepLearning algorithms.
+#
 
-# Tools and softwares required for this project.
+### What is YOLO algorithm?
+You Only Look Once(YOLO) is a real time object detection algorithm. 
 
-1. OpenCV (Download Link - https://opencv.org/releases/)
-2. Yolo Configuration and Weights file. (Download Link - https://pjreddie.com/darknet/yolo/)
-3. 
+#
 
-[![Watch the video](https://github.com/ketan132000/Object_detection-Using-YOLO-/blob/main/ouput1.mp4)]
+### Tools and softwares required for this project.
+
+1. Python (Download Link-https://www.python.org/downloads/)
+2. OpenCV (Download Link - https://opencv.org/releases/)
+3. Yolo Configuration and Weights file (Download Link - https://pjreddie.com/darknet/yolo/)
+4. COCO Dataset (Download Link-https://cocodataset.org/#home)
+5. Python IDE (Spyder Suggested) (Download Link-https://www.anaconda.com/products/individual)
+
+<p align="center">
+<img src="outputs/gif1.gif" width=70% height=50%>
+ </p>
 
