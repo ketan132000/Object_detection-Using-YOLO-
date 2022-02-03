@@ -1,4 +1,4 @@
-# Real time Object detection & Classification using YOLO algorithm.
+# Real time Object detection & Classification using YOLO algorithm & it's application in object detection using drones.
 Real Time Object Detection and Classification using Yolo Algorithm.
  
 ### What is Object Detection and classification?
@@ -34,9 +34,11 @@ The objects are detected and are classified into different classes( shown in dif
 #
 
 ### What is YOLO algorithm?
-You Only Look Once(YOLO) is a real time object detection algorithm. 
+You Only Look Once(YOLO) is a real time object detection algorithm. It is a clever Convolutional Neural Network. 
 
-#
+There are multiple frameworks that can be used for real time object detection and 
+   
+         #
 
 ### Tools and softwares required for this project.
 
@@ -44,7 +46,8 @@ You Only Look Once(YOLO) is a real time object detection algorithm.
 2. OpenCV (Download Link - https://opencv.org/releases/)
 3. Yolo Configuration and Weights file (Download Link - https://pjreddie.com/darknet/yolo/)
 4. COCO Dataset (Download Link-https://cocodataset.org/#home)
-5. Python IDE (Spyder Suggested) (Download Link-https://www.anaconda.com/products/individual)
+5. Python IDE (Spyder recommended) (Download Link-https://www.anaconda.com/products/individual)
+6. DarkNet Framework (Git Repository-https://github.com/pjreddie/darknet)
 
 <p align="center">
 <img src="outputs/gif1.gif" width=70% height=50%>
