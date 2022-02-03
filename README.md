@@ -50,6 +50,6 @@ There are multiple frameworks that can be used for real time object detection an
 6. DarkNet Framework (Git Repository-https://github.com/pjreddie/darknet)
 
 <p align="center">
-<img src="outputs/gif1.gif" width=70% height=50%>
+<img src="outputs/videoplayback (1).gif" width=70% height=50%>
  </p>
 
