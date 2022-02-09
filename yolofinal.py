@@ -6,7 +6,7 @@ classes=[]
 with open('coco.names', 'r') as f:
     obj_names= f.read().splitlines()
 classes = [name.split(',')[0] for name in obj_names]
-print(classes)
+#print(classes)
 #%%
 net= cv2.dnn.readNet(model='yolov3.weights',config='yolov3.cfg',framework="DNN")
 cap=cv2.VideoCapture(0)
