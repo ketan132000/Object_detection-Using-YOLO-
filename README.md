@@ -38,7 +38,7 @@ You Only Look Once(YOLO) is a real time object detection algorithm. It is a clev
 
 There are multiple frameworks that can be used for real time object detection and 
    
-         #
+         
 
 ### Tools and softwares required for this project.
 
