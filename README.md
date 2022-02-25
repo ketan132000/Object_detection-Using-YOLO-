@@ -31,7 +31,7 @@ The following is the output that the machine will provide us with after performi
 The objects are detected and are classified into different classes( shown in different bounding boxes).
 
 ### Object Detection using DeepLearning algorithms.
-#
+
 
 ### What is YOLO algorithm?
 You Only Look Once(YOLO) is a real time object detection algorithm. It is a clever Convolutional Neural Network. 
